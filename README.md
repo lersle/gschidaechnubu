@@ -14,7 +14,7 @@ Join the [Discord community](https://discord.gg/5jyhjcbTnR) to discuss the proje
 ## SmartKnob View
 The "SmartKnob View" is the premium SmartKnob experience with an integrated display shown in my [demo video](https://www.youtube.com/watch?v=ip641WmY4pA). Under active development.
 
-🎉 **Motors are [now available](https://www.sparkfun.com/products/20441)!** If you've been following this project,
+🎉 **Motors are [now available](https://www.sparkfun.com/products/20441)!** If you've been following this project, hans
 you'll know that the recommended motors went out of stock nearly immediately after it was published.
 Thanks to [the community](https://github.com/scottbez1/smartknob/issues/16#issuecomment-1094482805%5D), we were able to
 identify the likely original manufacturer, and recently SparkFun Electronics has been getting them produced and regularly
